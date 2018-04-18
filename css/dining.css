@@ -1,0 +1,37 @@
+@charset "utf-8";
+/* CSS Document */
+.mainshow{ width:1400px; margin-left:auto; margin-right:auto; height:565px; background:url(../images/banner_dining.jpg) no-repeat center;}
+.mainshow h1{ margin:0; text-align:center; padding-top:30px; color:#ffffff;}
+.maindescrip{ color:#ffffff; text-align:center;}
+.btns{ text-align:center; margin-top:50px; }
+.btns a{border:1px solid #44C12F; padding:10px 20px; border-radius:3px; text-decoration:none;}
+.mfsy{ background:#44C12F; color:#ffffff; margin-right:5px;}
+.sjdl{ background:#ffffff; color:#44C12F; margin-left:5px;}
+.backendshow{ margin-left:auto; margin-right:auto;  text-align:center; margin-top:76px;}
+.backendshow img{ height:306px; margin-left:auto; margin-right:auto;}
+.insidenavi{ width:1000px; margin:0 auto; margin-top:60px;}
+.insidenavi ul li{ float:left; margin:0 35px;}
+.insidenavi ul li div{ width:30px; height:30px; margin:0 auto;}
+.insidenavi ul li h3{ font-family:"宋体"; font-size:14px; font-weight:normal; text-align:center;}
+.naviicon_store{ background:url(../images/sprites.png) no-repeat;background-position:-144px -96px;}
+.naviicon_takeout{background:url(../images/sprites.png) no-repeat;background-position:-104px -104px;}
+.naviicon_order{background:url(../images/sprites.png) no-repeat;background-position:-144px -64px;}
+.naviicon_marketing{background:url(../images/sprites.png) no-repeat;background-position:-72px -104px;}
+.naviicon_pay{background:url(../images/sprites.png) no-repeat;background-position:-72px -72px;}
+.naviicon_app{background:url(../images/sprites.png) no-repeat;background-position:-144px -32px;}
+.naviicon_upgrade{background:url(../images/sprites.png) no-repeat;background-position:-144px 0;}
+.naviicon_price{background:url(../images/sprites.png) no-repeat;background-position:-104px -72px;}
+
+/*主体分项介绍*/
+.descenter{ width: 1000px; height: 650px; margin: 0 auto;}
+.desc1{ width:100%; background:#000000;}
+.dcs1{background: url("../images/bg_store.png") no-repeat right; color: #FFFFFF;}
+.desc2{ width:100%; background:#008DE8;}
+.dcs2{background: url("../images/take_out_platform.png") no-repeat left; color: #FFFFFF;}
+.desc3{width:100%; background:#000000;}
+.dcs3{background: url("../images/illustration_order.png") no-repeat right; color: #FFFFFF;}
+.desc4{width:100%; }
+.desc5{width:100%; background:#000000; }
+.desc6{width:100%; }
+.dcs6{background: url("../images/dian.png") no-repeat left;}
+.desc7{width:100%; background:#F8F8F8;}

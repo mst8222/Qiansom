@@ -1,0 +1,30 @@
+@charset "utf-8";
+/* CSS Document */
+.indexhead{ background:#e3e1e6}
+.indexbody{ width:1400px; margin-left:auto; margin-right:auto; background:url(../images/bg_21.jpg) no-repeat; height:528px;}
+/*首页头部样式*/
+.midhead{ width:1400px; margin-left:auto; margin-right:auto;}
+.navibar{}
+.navi{ width:1400px; height:92px; position:absolute;  z-index:100; border-bottom:1px solid #dedede;}
+.menus{ width:1000px;margin-left:auto; margin-right:auto;}
+.logo{ float:left;}
+.menu{ float:right;}
+.menu ul li{ float:left; margin-top:35px; margin-left:38px; font-size:14px;}
+.seled{ text-decoration:underline;}
+.menu ul li a{ color:#000000; text-decoration:none;}
+.menu ul li a:hover{}
+.btn_login{ color:#2B90ED;}
+.btn_login a{ border:1px solid #2B90ED; padding:5px 25px; text-decoration:none; color:#2B90ED;border-radius:3px;}
+.btn_login a:link{ color:#2B90ED;}
+.btn_login a:hover{ color:#ffffff; background:#2B90ED;}
+.btn_register{ color:#ffffff;}
+.btn_register a{ border:1px solid #2B90ED; padding:5px 25px;text-decoration:none; background:#2B90ED; color:#ffffff; border-radius:3px;}
+.btn_register a:link{ color:#ffffff;}
+.btn_register a:hover{ color:#ffffff; background:#5CB0FD;}
+.focus{}
+/*首页主体样式*/
+.indexbodypart{ width:1000px; margin-left:auto; margin-right:auto; margin-top:35px; margin-bottom:35px;}
+.features{ width:230px; display:block; float:left; margin-left:51px; margin-right:51px; padding-top:35px; padding-bottom:35px;}
+.features img{ display:block; margin-left:auto; margin-right:auto; }
+.features h4{ display:block; font-size:18px; text-align:center; margin-top:15px;}
+.features p{ font-size:12px;margin-top:15px;}

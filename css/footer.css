@@ -1,0 +1,25 @@
+@charset "utf-8";
+/* CSS Document */
+/*联系方式*/
+.indexbodypart{ width:1000px; margin-left:auto; margin-right:auto; margin-top:35px; margin-bottom:35px;}
+.indexbodypart h3{ text-align:center; font-size:40px; padding-top:58px;}
+.indexbodypart ul li{ display:block; float: left; width:80px; margin-left:40px; margin-right:40px; padding-top:50px;}
+.indexbodypart ul li p{ text-align:center; padding-top:10px;}
+.wx{ width:160px; float:left; margin-bottom:60px;}
+.contact{ width:250px; float:left; margin-bottom:60px; margin-left:90px;}
+.contact p{ font-size:24px; margin-bottom:16px;}
+.contact p.servtime{ font-size:14px;}
+.customerinfo{ width:400px; float:right; margin-bottom:60px;}
+.customerinfo p{ font-size:14px; line-height:22px; margin-bottom:18px;}
+h5{ font-size:24px; border:none; font-family:"微软雅黑"; margin-bottom:20px;}
+.customerinfo input{ width:400px;height:35px;}
+input.input1{  margin-bottom:10px;  background:#f5f5f5; border:1px solid #c9c9c9; }
+input.submit1{  margin-top:10px; color:#FFFFFF; background:e7634c; border:1px solid #c9c9c9;}
+/*版权信息*/
+.footer{ background:#333333; font-size:12px}
+.footerinfo{ color:#FFFFFF; width:1000px; margin-left:auto; margin-right:auto; padding-top:30px; padding-bottom:30px;}
+.footerinfo a{ color:#FFFFFF}
+.aboutlinks{ display:table-row;}
+.aboutlinks ul{ display:block;}
+.aboutlinks ul li{ float:left; margin-right:20px; padding-bottom:10px;}
+.copyrightinfo{ display:table-row;} 
